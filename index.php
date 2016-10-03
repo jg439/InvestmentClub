@@ -69,16 +69,15 @@
 			<section>
 				<br></br>
 				
+				<center>
+					<div class="fadein">
 				
-				<div class="fadein">
 				
-				
-					<img src="images/bloombergpic.jpg">
-					<img src="images/NJIT_logo.png">
-					<img src="images/bloombergpic.jpg">
-					
-				</div>
-				
+						<img src="images/bloombergpic.jpg">
+						<img src="images/NJIT_logo.png">
+						<img src="images/bloombergpic.jpg">
+					</div>
+				</center>
    
 
 
@@ -175,6 +174,7 @@
 			</aside>
 
 		</main>
+		
        
 	</body>
 	
