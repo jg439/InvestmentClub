@@ -1,6 +1,6 @@
 <?php
 	
-	$to = "ic36@njit.edu";
+	$to = "jg439@njit.edu";
 	$subject = "From - ".$_POST['firstName']." ".$_POST['lastName']." (".$_POST['email'].")";
 	$message = $_POST['comment'];
 	
