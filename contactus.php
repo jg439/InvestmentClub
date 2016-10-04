@@ -51,7 +51,7 @@ if($_SESSION['sent'])
 				</nav>
 
 
-				<img src = "images/NJIT_logo.png" alt = "logo" width ="250" height= "100">
+				<img src = "images/logo.svg" alt = "logo" width ="250" height= "100">
 
 				<div id="header">
 					<ul class="nav">

@@ -16,13 +16,12 @@
 
 <nav id = "upper_nav">
 <ul>
-	<li><a href = "#log">Login</a></li>
+	<li><a href = "index.php">Login</a></li>
 	<li><a href = "registration.html">Register</a></li>
-	<li><a href = "">Search</a></li>
 </ul>
 </nav>
 
-<img src = "" alt = "logo" width ="150" height= "100">
+<img src = "images/logo.svg" alt = "logo" width ="150" height= "100">
 
 <h1>NJIT Investment Club</h1>
 

@@ -26,14 +26,13 @@
 			<header>
 				<nav id = "upper_nav">
 					<ul>
-						<li><a href = "#log">Login</a></li>
+						<li><a href = "index.php">Login</a></li>
 						<li><a href = "registration.html">Register</a></li>
-						<li><a href = "">Search</a></li>
 					</ul>
 				</nav>
 
 
-				<img src = "images/NJIT_logo.png" alt = "logo" width ="250" height= "100">
+				<img src = "images/logo.svg" alt = "logo" width ="250" height= "100">
 
 				<div id="header">
 					<ul class="nav">

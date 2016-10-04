@@ -17,12 +17,11 @@
 
 <nav id = "upper_nav">
 <ul>
-	<li><a href = "#log">Login</a></li>
-	<li><a href = "">Register</a></li>
-	<li><a href = "">Search</a></li>
+	<li><a href = "index.php">Login</a></li>
+	<li><a href = "register.php">Register</a></li>
 </ul>
 </nav>
-<img src = "images/NJIT_logo.png" alt = "logo" width ="150" height= "100">
+<img src = "images/logo.svg" alt = "logo" width ="150" height= "100">
 
 <div id="header">
 	<ul class="nav">
