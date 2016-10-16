@@ -267,8 +267,8 @@ border-bottom: 1px dotted grey;
 }
 
 .container {
-    height: 1150px;
-    width: 1000px;
+    height: 1350px;
+    width: 960px;
     background: #EEE;
     margin: 10px auto;
     position: relative;
@@ -297,19 +297,19 @@ border-bottom: 1px dotted grey;
 
 .blockimage{
 	background: white;
-    height: 200px;
-    width: 250px;
+    height: 300px;
+    width: 225px;
     float: left;
     margin-top:10px;
-	margin-left: 50px;	
+	margin-left: 70px;	
 }
 .block {
     background: white;
-    height: 300px;
-    width: 250px;
+    height: 335px;
+    width: 225px;
     float: left;
     margin-top:10px;
-	margin-left: 50px;
+	margin-left: 70px;
 	border:1px solid grey;
 	margin-bottom:20px;
 }

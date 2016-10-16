@@ -31,12 +31,9 @@
 					<div class = "container2">
 						<h2> NJIT´s Training Program </h2>
 						<p>Investing 101 is a 10-week training program created by the Investment Club with the collaboration of the
-						School of Management where participants are introduced to the basics of investing. 
-						At the end of the program, the students who wish to become analysts of the club will be able to take 
-						a final exam where their abilities and skills will be measured. 
-						Any current student of the school is welcome to join us and learn the club´s investment philosophy.
-						Some of the material given in this class will be based on <i>The Five Rules for Succesful Stock Investing</i> by 
-						Pat Dorsey.</p>
+						School of Management where participants are introduced to the basics of investing.  
+						Any current student of the school is welcome to join us and learn the club´s investment philosophy.</p>
+						
 
 						<nav id ="week_menu">
 							<ul>
@@ -52,71 +49,61 @@
 								<li><a href="javascript:ReverseDisplay('week10')"> <input type = "button" name="week10" value = "Week 10" class = 'weekbutton'></li>
 					
 								<div id="week1" style="display:none;">
-									<h3> 1. Introduction to Markets</h3>
-										<p> In this class the students will learn the principals of
-										markets and economics. This class will include an overview of 
-										stocks, bonds, and other financial tools. In addition, the students
-										will learn about inflation and interest rates. </p>
+									<h3> 1. Sector Overview </h3>
+										<p> This week we will cover the different sectors that the market has.</p>
 								</div>
 					
 								<div id="week2" style="display:none;">
-									<h3> 2. Financial Statements: Balance Sheet </h3>
-										<p> This class will cover an introduction of the Balance Sheet
-										and its different accounts.</p>
+									<h3> 2. Industries Overview</h3>
+										<p> After the sector selection, the investors will pick up the industry that they would like to do 
+										research about.
+										</p>
 								</div>
 					
 								<div id="week3" style="display:none;">
-									<h3> 3. Financial Statements: Income Statement	</h3>
-										<p>This class will cover an introduction of the Income Statement
-										and its different accounts. </p>
+									<h3> 3. Stock Pick-Up: Business Description</h3>
+										<p> </p>
 							
 								</div>
 					
 								<div id="week4" style="display:none;">
-									<h3> 4. Financial Statements: Statement of Cash Flows </h3>
-										<p> This class will cover an introduction of the Statement 
-											of Cash Flows and its different accounts.</p>
+									<h3> 4. Stock Financial Analysis</h3>
+										<p> This meeting we will cover the financial statements of a company.</p>
 								</div>
 					
 								<div id="week5" style="display:none;">
-									<h3> 5. Ratios </h3>
-										<p> In this class the students will become familiar with the different ratios
-										that are used to measure the company´s financial statements.</p>
+									<h3> 5. Valuation</h3>
+										<p> In this class the students will become familiar with the different valuation methods
+										used to determine the price of a stock</p>
 								</div>
 							
 								<div id="week6" style="display:none;">
-									<h3>  6. Discounted Cash Flow </h3>
-										<p> In this class the students will learn how to calculate the 
-										intrinsic value of a stock by using the DCF. The participants
-										will also learn the advantages and disadvantages of using this 
-										method.</p>
+									<h3>  6. Investment Risk </h3>
+										<p>What are the perils of this investment?</p>
 								</div>
 							
 								<div id="week7" style="display:none;">
-									<h3>7. Stock Sector</h3>
-										<p> In this class the participants will learn specific characteristics of 
-										each sector that NJIT is investing in.</p>
+									<h3>7. Other Headings</h3>
+										<p>News of the company</p>
 							
 								</div>
 							
 								<div id="week8" style="display:none;">
-									<h3> 8. Portfolio </h3>
-										<p> In this class the students will learn how to calculate a
-										portfolio return and risks and the importance of diversification</p>
+									<h3> 8. Investment Summary</h3>
+										<p> Do you consider the stock a good investment?</p>
 								
 								</div>
 							
 								<div id="week9" style="display:none;">
-									<h3> 9. Stock Picking Process: Developing your 10-minute Test</h3>
+									<h3> 9. Presentations</h3>
 										<p> In this class the students will learn to develop a ten minute
 										test that will allow them to separate attractive companies that
 										deserve a deeper analysis from non-attractive companies.</p>
 								</div>
 							
 								<div id="week10" style="display:none;">
-									<h3> 10. Exam</h3>
-										<p> It is a written exam where the students will have to analyze a company´s financial statements
-										and determine whether they would invest in the company or not.</p>
+									<h3> 10. Presentation of the Portfolio</h3>
+										<p>Final meeting where we will sum up the transactions made</p>
 								</div>
 					
 					

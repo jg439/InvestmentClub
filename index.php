@@ -31,7 +31,6 @@
 				
 						<img src="images/bloombergpic.jpg">
 						<img src="images/logo.svg">
-						<img src="images/bloombergpic.jpg">
 					</div>
 				</center>
    
@@ -45,7 +44,7 @@
 							<p> Posted on 10/07/16</p>
 	
 							<p class = "greyborder"> The Investment Club will start holding its meetings
-							at the Ray Cassetta Financial Lab on the 15th of October at 11:30pm. Any students
+							at the Leir Conference room on the 21st of October at 11:30pm. Any students
 							are welcome to come.
 							
 							</p>

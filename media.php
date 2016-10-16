@@ -31,38 +31,7 @@
                 <img data-u="image" src="images/bloombergpic.jpg" />
                 <img data-u="thumb" src="images/bloombergpic.jpg" />
             </div>
-            <div data-p="150.00" style="display: none;">
-                <img data-u="image" src="images/bloombergpic.jpg" />
-                <img data-u="thumb" src="images/bloombergpic.jpg" />
-            </div>
-            <div data-p="150.00" style="display: none;">
-                <img data-u="image" src="images/bloombergpic.jpg" />
-                <img data-u="thumb" src="images/bloombergpic.jpg" />
-            </div>
-            <div data-p="150.00" style="display: none;">
-                <img data-u="image" src="images/bloombergpic.jpg" />
-                <img data-u="thumb" src="images/bloombergpic.jpg" />
-            </div>
-            <div data-p="150.00" style="display: none;">
-                <img data-u="image" src="images/bloombergpic.jpg" />
-                <img data-u="thumb" src="images/bloombergpic.jpg" />
-            </div>
-            <div data-p="150.00" style="display: none;">
-                <img data-u="image" src="images/bloombergpic.jpg" />
-                <img data-u="thumb" src="images/bloombergpic.jpg" />
-            </div>
-            <div data-p="150.00" style="display: none;">
-                <img data-u="image" src="images/bloombergpic.jpg" />
-                <img data-u="thumb" src="images/bloombergpic.jpg" />
-            </div>
-            <div data-p="150.00" style="display: none;">
-                <img data-u="image" src="images/bloombergpic.jpg" />
-                <img data-u="thumb" src="images/bloombergpic.jpg" />
-            </div>
-            <div data-p="150.00" style="display: none;">
-                <img data-u="image" src="images/bloombergpic.jpg" />
-                <img data-u="thumb" src="images/bloombergpic.jpg" />
-            </div>
+            
         
         </div>
         <!-- Thumbnail Navigator -->
